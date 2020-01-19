@@ -28,3 +28,4 @@ ex)
  1. Repository 생성
  2. README.md 생성과 작성
  3. Branch 생성 (yhana972)
+ 4. Notion 생성
